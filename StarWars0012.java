@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class StarWars0012 {
 	public static void main(String[] args) {
+		// Nama 	: Darmawan;
+		// NIM		: D0217504;
+		// Kelas	: TI.A 2017;
 		Scanner sIchsan = new Scanner (System.in);
 		System.out.println("input ");
 		int a = sIchsan.nextInt();
